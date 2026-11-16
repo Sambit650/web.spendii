@@ -47,28 +47,7 @@ The website presents the product, its approach to privacy, and where to get help
 
 ## About this repository
 
-This repo contains the **marketing and information website** only. It includes the landing page and the About, Privacy, Terms and Support pages. It does not contain the app itself.
-
-### Built with
-
-Next.js, React, TypeScript and Tailwind CSS, deployed as a static site on GitHub Pages through GitHub Actions.
-
-### Run it locally
-
-Requires Node.js 20 or newer.
-
-```bash
-git clone https://github.com/Sambit650/web.spendii.git
-cd web.spendii
-npm install
-npm run dev
-```
-
-Then open [http://localhost:3000](http://localhost:3000).
-
-### Deployment
-
-Pushing to `main` builds and publishes the site automatically through the workflow in `.github/workflows`. In the repository, set **Settings → Pages → Source** to **GitHub Actions** once.
+This repo contains the **official website** for Spendii: the landing page and the About, Privacy, Terms and Support pages. It does not contain the app itself.
 
 ## License and usage
 
