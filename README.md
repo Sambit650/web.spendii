@@ -49,10 +49,6 @@ The website presents the product, its approach to privacy, and where to get help
 
 This repo contains the **official website** for Spendii: the landing page and the About, Privacy, Terms and Support pages. It does not contain the app itself.
 
-## License and usage
-
-© Spendii. All rights reserved. The name, branding, copy, designs and assets in this repository are not licensed for reuse or redistribution without written permission.
-
 ## Contact
 
 Questions, feedback or partnership ideas: [dev.sambit12@gmail.com](mailto:dev.sambit12@gmail.com)
